@@ -1,4 +1,5 @@
 # Copyright (C) 2016 The CyanogenMod Project
+# Copyright (C) 2018 Ridon
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -24,7 +25,7 @@ $(call inherit-product, device/samsung/j3xnlte/j3xnlte.mk)
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := j3xnlte
 PRODUCT_RELEASE_NAME := j3xnlte
-PRODUCT_NAME := lineage_j3xnlte
+PRODUCT_NAME := ridon_j3xnlte
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-J320FN
 PRODUCT_MANUFACTURER := samsung
